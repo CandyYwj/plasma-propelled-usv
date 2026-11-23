@@ -1,0 +1,1 @@
+(0x7000 2025-05-20 15:16:20.720) void PolCommunicationThread::handleFrameData(const QByteArray&) CRC ERROR. DST CRC: 17473 , cacl crc: 39317 , frameData:  "a503200100000effffffffffffb70327005852013c4441"
